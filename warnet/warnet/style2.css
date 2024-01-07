@@ -1,0 +1,25 @@
+body{
+	font-family: sans-serif;
+	background: #ebf9fb;
+}
+ 
+h1{
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: 300;
+}
+th {
+        background-color: lightgreen;
+        color: black;
+        padding: 10px;
+        text-align: left;
+        text-shadow: 1px 1px 1px #fff;
+        text-decoration: none;
+}
+a {
+          background-color: lightgreen;
+          color: #fff;
+          padding: 10px;
+          text-decoration: none;
+          font-size: 13px;
+}
